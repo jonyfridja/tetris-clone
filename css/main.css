@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 96vh;
+    background-color: #282c34;
+    margin: 0;
+    padding: 2vh 0;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu {
+    width: 400px;
+    height: 300px;
+    background-color: blue;
+    color: white;
+    align-self: flex-start;
+}
+#board {
+}
+
